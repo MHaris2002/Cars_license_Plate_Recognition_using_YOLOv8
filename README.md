@@ -21,7 +21,7 @@ The system integrates the following key components:
 
 ## Video Used
 
-The video I used in this tutorial can be downloaded from [here](https://www.pexels.com/video/vehicles-traveling-on-daytime-8321860/).
+The video I used in this proect can be downloaded from [here](https://www.pexels.com/video/vehicles-traveling-on-daytime-8321860/).
 
 ## Model
 
@@ -48,11 +48,11 @@ cd Cars_license_Plate_Recognition
 ```bash
 pip install -r requirements.txt
 ```
-* Run main.py with the sample video file to generate new_test_alphabets,csv. Make few changes in functions.py and main.py as mentioned in code and re-run this command to generate new_test_numeric.csv.
+* Run main.py with the sample video file to generate new_test_alphabets.csv. Make few changes in functions.py and main.py as mentioned in code and re-run this command to generate new_test_numeric.csv.
 ``` python
 python main.py
 ```
-* Run Merge.py to merge both csv
+* Set the paths of both csv files and run Merge.py to merge both csv
 ``` python
 python Merge.py
 ```
