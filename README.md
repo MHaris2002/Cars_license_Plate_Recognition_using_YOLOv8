@@ -2,8 +2,21 @@
 ## Demo
 
 
-https://github.com/user-attachments/assets/2495af25-6abe-46fc-861d-762e03bcc797
+https://github.com/user-attachments/assets/9c0bf947-2614-444b-ab92-244485d0559b
 
+
+
+
+## Description
+
+This project involves the development of an AI-powered system designed for real-time vehicle detection, license plate recognition, and tracking from video footage. It utilizes a combination of state-of-the-art computer vision techniques and deep learning models for accurate identification and extraction of vehicle and license plate information.
+
+The system integrates the following key components:
+
+- **YOLOv8 Nano Model:** A lightweight deep learning model is used for real-time vehicle detection and license plate localization, ensuring fast processing on resource-limited hardware.
+- **EasyOCR:** An OCR library that extracts license plate characters from the detected plates, facilitating license plate recognition.
+- **SORT (Simple Online and Realtime Tracking):** A tracking algorithm used for associating detected objects (vehicles) across video frames to maintain consistent identification.
+- **OpenCV:** Utilized for image preprocessing, manipulation, and post-processing tasks, such as drawing bounding boxes and applying visual enhancements.
 
 
 ## Video Used
@@ -14,7 +27,7 @@ The video I used in this tutorial can be downloaded from [here](https://www.pexe
 
 The license plate detection model has been trained using the YOLOv8 framework for high-precision detection. 
 - You can access the trained model [here](https://github.com/MHaris2002/Cars_license_Plate_Recognition/tree/main/model). 
--  The dataset used for training can be found [here](https://universe.roboflow.com/roboflow-universe-projects/license-plate-recognition-rxg4e/dataset/4).
+- The dataset used for training can be found [here](https://universe.roboflow.com/roboflow-universe-projects/license-plate-recognition-rxg4e/dataset/4).
 
 ## Dependencies
 
