@@ -37,11 +37,11 @@ The sort module needs to be downloaded from [this repository](https://github.com
 
 * Make an environment with python ad clone this repository
 ``` bash
-git clone https://github.com/MHaris2002/Cars_license_Plate_Recognition.git
+git clone https://github.com/MHaris2002/Cars_license_Plate_Recognition_using_YOLOv8.git
 ```
 * Navigate to project directory
 ``` bash
-cd Cars_license_Plate_Recognition
+cd Cars_license_Plate_Recognition_using_YOLOv8
 ``` 
 
 * Install the project dependencies using the following command 
