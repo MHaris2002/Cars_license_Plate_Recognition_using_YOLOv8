@@ -2,7 +2,7 @@
 ## Demo
 
 
-https://github.com/Muhammad-Zeerak-Khan/Automatic-License-Plate-Recognition-using-YOLOv8/assets/79400407/1af57131-3ada-470a-b798-95fff00254e6
+https://github.com/user-attachments/assets/2495af25-6abe-46fc-861d-762e03bcc797
 
 
 
