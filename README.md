@@ -21,7 +21,7 @@ The system integrates the following key components:
 
 ## Video Used
 
-The video I used in this proect can be downloaded from [here](https://www.pexels.com/video/vehicles-traveling-on-daytime-8321860/).
+The video I used in this project can be downloaded from [here](https://www.pexels.com/video/vehicles-traveling-on-daytime-8321860/).
 
 ## Model
 
